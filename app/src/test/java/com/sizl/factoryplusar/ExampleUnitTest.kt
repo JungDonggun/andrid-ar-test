@@ -1,4 +1,4 @@
-package com.example.androidar
+package com.sizl.factoryplusar
 
 import org.junit.Test
 
